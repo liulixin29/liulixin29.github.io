@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Education"
-      url: /talks/   
+  # - title: "Education"
+  #     url: /talks/   
 
-  - title: "Working Experience"
-      url: /teaching/   
+  # - title: "Working Experience"
+  #     url: /teaching/   
       
   - title: "Publications"
     url: /publications/
