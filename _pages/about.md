@@ -17,16 +17,21 @@ Publications
 ======
 **Conifer: Improving Complex Constrained Instruction-Following Ability of Large Language Models.**
 Haoran Sun^, **Lixin Liu**^, Junjie Li, Fengyu Wang, Baohua Dong, Ran Lin, Ruohui Huang. arXiv preprint arXiv: 2404.02823. (^ equal contribution)
+
 **Open-World Semi-Supervised Learning for Node Classification**
 Yanling Wang, Jing Zhang, Lingxi Zhang, **Lixin Liu**, Yuxiao Dong, Cuiping Li, Hong Chen, Hongzhi Yin. ICDE 2024.
+
 **Continual Transfer Learning for Cross-Domain Click-Through Rate Prediction at Taobao.**
-**Lixin Liu**^, Yanling Wang^, Tianming Wang, Dong Guan, Jiawei Wu, Jingxu Chen, Rong Xiao, Wenxiang Zhu, Fei Fang. WWW 2023. (^ equal contribution)
+**Lixin Liu**, Yanling Wang, Tianming Wang, Dong Guan, Jiawei Wu, Jingxu Chen, Rong Xiao, Wenxiang Zhu, Fei Fang. WWW 2023. 
+
 **MSRA: A Multi-Aspect Semantic Relevance Approach for E-Commerce via Multimodal Pre-Training**
-Hanqi Jin, Jiwei Tan, **Lixin Liu**, Lisong Qiu, Shaowei Yao, Xi Chen, Xiaoyi Zeng. ICDE 2024.
+Hanqi Jin, Jiwei Tan, **Lixin Liu**, Lisong Qiu, Shaowei Yao, Xi Chen, Xiaoyi Zeng. CIKM 2023.
+
 **Generating Diverse and Descriptive Image Captions Using Visual Paraphrases.**
-**Lixin Liu**, Jiajun Tang, Xiaojun Wan, Zongming Guo. ACM Multimedia 2023. 
+**Lixin Liu**, Jiajun Tang, Xiaojun Wan, Zongming Guo. ICCV 2019. 
+
 **Images2Poem: Generating Chinese Poetry from Image Streams.**
-**Lixin Liu**, Xiaojun Wan, Zongming Guo. ACM Multimedia 2023. 
+**Lixin Liu**, Xiaojun Wan, Zongming Guo. ACM Multimedia 2018. 
 
 
 
